@@ -29,4 +29,4 @@ ENV INPUT_PROMPT "a photo of an astronaut on mars"
 VOLUME /images
 
 # Run app.py when the container launches
-CMD ["python", "main.py"]
+CMD ["python3", "main.py"]
